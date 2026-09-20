@@ -25,7 +25,7 @@ Press 1 to 8 to switch between block types (e.g., Grass, Dirt, Stone)
 https://zahicraft-multiplayer.onrender.com/
 
 ZahiCraft Multiplayer is a browser-based, block-building Multiplayer 3D game inspired by sandbox classics. It lets players explore and interact with a simple world where you can move, jump, place, and remove blocks to build your own environments along with other people— all in the browser with no installation required. 
-zahicraft.onrender.com
+[Zahicraft](https://zahicraft-multiplayer.onrender.com/)
 
 
 **💡 Why This Project?**
